@@ -1,23 +1,23 @@
 export const data = [
 	{
 		id: 1,
-		img: 'https://discouy.vtexassets.com/arquivos/ids/1524417/Banana-Brasil-apro-x-150-g-0.jpg?v=638339333070400000',
-		nameProduct: 'Bananas',
-		price: 300,
+		img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg/1200px-2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg',
+		nameProduct: 'Camaro',
+		price: 300000,
 		quantity: 1,
 	},
 	{
 		id: 2,
-		img: 'https://discouy.vtexassets.com/arquivos/ids/1524613/Frutilla-especial-0.jpg?v=638339333190800000',
-		nameProduct: 'Frutillas',
-		price: 250,
+		img: 'https://acnews.blob.core.windows.net/imgnews/medium/NAZ_82afbbae82664a82a0f2cab7e0ccf7c2.webp	',
+		nameProduct: 'Lamborghini',
+		price: 250000,
 		quantity: 1,
 	},
 	{
 		id: 3,
-		img: 'https://discouy.vtexassets.com/arquivos/ids/1524502-800-auto?v=638339333124600000&width=800&height=auto&aspect=true',
-		nameProduct: 'Kiwi',
-		price: 399,
+		img: 'https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/20/16530388291489.jpg',
+		nameProduct: 'Ferrari',
+		price: 300000,
 		quantity: 1,
 	},
 	
